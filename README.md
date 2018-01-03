@@ -1,4 +1,4 @@
-# Template 006
+# template-006 (Room booking)
 
-Bootstrap theme and business portal function examples  
-https://vmiis.github.io/template-006/index.html
+Application template with Bootstrap 4 responsive style and database driven modules  
+Live demo: https://vmiis.github.io/template-006/
